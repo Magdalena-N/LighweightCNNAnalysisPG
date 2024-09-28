@@ -1,3 +1,6 @@
 [submodule "TFLiteAndroidApp"]
 	path = TFLiteAndroidApp
 	url = https://github.com/Magdalena-N/TFLiteAndroidApp.git
+[submodule "objectdetection"]
+	path = objectdetection
+	url = https://github.com/Magdalena-N/objectdetection.git
